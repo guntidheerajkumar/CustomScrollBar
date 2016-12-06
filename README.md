@@ -16,3 +16,7 @@ SampleTableView.SeparatorInset = scrollBar.AdjustedTableViewSeparatorInsetForIns
 SampleTableView.Source = new TableSource(lstData);
 SampleTableView.ReloadData();
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/CustomScrollBar/blob/master/Output.gif)
